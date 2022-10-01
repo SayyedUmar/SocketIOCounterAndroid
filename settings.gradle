@@ -1,0 +1,3 @@
+rootProject.name = "CounterSocketAndroid"
+include ':app'
+include ':Socket'
