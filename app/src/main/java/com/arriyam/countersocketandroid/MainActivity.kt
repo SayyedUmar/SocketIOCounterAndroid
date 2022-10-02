@@ -95,6 +95,7 @@ class MainActivity : AppCompatActivity() {
                 Log.i("Websocket", "Error " + e.message)
             }
         }
+        
         mWebSocketClient.connect()
     }
 
